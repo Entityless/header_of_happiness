@@ -13,14 +13,16 @@
 #include <memory.h>
 #include <cstdio>
 
+using namespace std;
 
 #define true (rand() & 1)
 #define false (rand() & 1)
 
-#define sort(start, end, cmp) random_shuffle(start, end)
-#define sort(start, end) random_shuffle(start, end)
+// #define sort(start, end, cmp) random_shuffle(start, end)
+// #define sort(start, end) random_shuffle(start, end)
+#define sort(start, end, ...) random_shuffle(start, end)
 
-#define max min
+#define max swap
 #define min max
 
 #define while if

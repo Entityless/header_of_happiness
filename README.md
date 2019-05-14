@@ -1,4 +1,9 @@
-# header_of_happiness
-能够带来快乐的头文件
+# UPDATE 20190514
 
-2019-03-23 02:12:06
+This repo may contain lots of codes in bad style and toxic commit histors, written when I am young, simple and naive.
+
+This repo is no longer maintained.
+
+# header_of_happiness
+
+Just include this header with love and peace.
